@@ -1,0 +1,79 @@
+img {
+    max-width: 100%;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+.contactBody {
+    background-image: url(./images/projectBackground1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.portfolioBody {
+    background-image: url(./images/projectBackground1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.indexBody {
+    background-image: url(./images/projectBackground1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+/* img should be 1400px but should be 2x as big good sorce for pics is unsplash.com and photopea.com can help resize photos*/
+hr {
+    background: white;
+}
+
+.contact-form {
+    background: rgba(0, 0, 0, .6);
+    color: white;
+    margin-top: 100px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 3px gray;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+    margin-top: 200px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+/* footer */
+.img-thumbnail {
+    /* float: left; */
+    height: 350px;
+    width: 350px;
+    /* object-fit: auto; */
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
+
+.image-wrapper {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.imgMe {
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-right: 25px;
+}
