@@ -1,3 +1,4 @@
+/* John Robinson 1/30/2022 style.css */
 img {
     max-width: 100%;
     margin-top: 15px;
@@ -5,7 +6,7 @@ img {
 }
 
 .contactBody {
-    background-image: url(./images/projectBackground1.jpg);
+    background-image: url(../assets/images/projectBackground1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -13,7 +14,7 @@ img {
 }
 
 .portfolioBody {
-    background-image: url(./images/projectBackground1.jpg);
+    background-image: url(../assets/images/projectBackground1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -21,7 +22,7 @@ img {
 }
 
 .indexBody {
-    background-image: url(./images/projectBackground1.jpg);
+    background-image: url(../assets/images/projectBackground1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
